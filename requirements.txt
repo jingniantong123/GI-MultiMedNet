@@ -1,0 +1,39 @@
+# Core Python
+numpy
+scipy
+pandas
+scikit-learn
+
+# Deep Learning (BANNet)
+torch
+torchvision
+torchaudio
+
+# Medical Image Processing
+opencv-python
+pillow
+scikit-image
+simpleitk
+
+# Reinforcement Learning (ARPOS)
+gymnasium
+gymnasium[box2d]
+stable-baselines3
+tensorboard
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+tqdm
+pyyaml
+
+# Optional: performance optimization
+numba
+
+# Optional: transformer/LLM utilities if needed
+transformers
+datasets
+accelerate
